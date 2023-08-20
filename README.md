@@ -57,4 +57,10 @@ There are several potential areas for enhancing this project:
 - **Deeper Analysis:** Further investigation into user demographics and behavior could provide insights into potential reasons for drop-offs at different stages of the funnel.
 - **Recommendations:** Based on the analysis, recommendations for improving the funnel could be included. For example, optimizing the visibility of the add-to-cart button or implementing strategies to address cart abandonment could lead to higher conversion rates.
 
+## Acknowledgments
+
+This project was completed as part of Codeacademy's data science course.
+
+Please note that this README provides a high-level overview of the project. For detailed instructions and code, refer to the analysis script and associated files.
+
 Feel free to contribute your ideas and improvements to this project!
